@@ -1,0 +1,9 @@
+Building Chicks
+
+See doc/readme-qt.rst for instructions on building Chicks QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Chicks.
+
+See doc/build-*.txt for instructions on building chicksd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Chicks.
